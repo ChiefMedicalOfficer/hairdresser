@@ -18,7 +18,8 @@
 
 }
 
-
+.phone {
+  pointer-events: none;
 body {
   /*background-color: transparent;*/
   margin: 0;
