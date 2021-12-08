@@ -20,6 +20,7 @@
 
 .phone {
   pointer-events: none;
+}
 body {
   /*background-color: transparent;*/
   margin: 0;
@@ -87,4 +88,4 @@ body {
   left: 100px;
   top: 150px;
   font-size: 30px;
-  }
+}
