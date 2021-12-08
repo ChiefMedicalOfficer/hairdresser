@@ -47,10 +47,10 @@ body {
   color: black;
 }
 
-.topnav a.active {
+/*.topnav a.active {
   background-color: #2F4F4F;
   color: white;
-}
+}*/
 .img2 {
   float: left;
   padding:  5px 5px;
